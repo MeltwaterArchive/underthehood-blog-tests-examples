@@ -1,6 +1,6 @@
 # Using Selenium Server in a Docker container
 
-This example is an illustration of how to write test for Selenium using rspec, and is part of a blog post on [underthehood-meltewater-blog](http://underthehood.meltwater.com)
+This example is an illustration of how to write test for Selenium using rspec, and is part of a blog post on [underthehood.meltwater.com](http://underthehood.meltwater.com/blog/2016/11/09/using-docker-with-selenium-server-to-run-your-browser-tests/)
 
 ## To run the example
 
